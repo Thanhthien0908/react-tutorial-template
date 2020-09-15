@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db62ee6-e177-40c5-9444-7ec10fdc403b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/store/saga-api/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/Authorization.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/Authorization.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Guests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Guests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/MainLayouts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/MainLayouts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/home/HomeConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/home/HomeConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/actions/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/actions/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducers/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/RoutesUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/RoutesUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/jwtService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/jwtService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gFRqjlG9gbn0D37RGFyLTaC64R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/component/Content" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/router" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db62ee6-e177-40c5-9444-7ec10fdc403b" name="Default Changelist" comment="" />
+      <created>1597708546600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597708546600</updated>
+      <workItem from="1597708549002" duration="4830000" />
+      <workItem from="1599263401883" duration="2162000" />
+      <workItem from="1599266049934" duration="1229000" />
+      <workItem from="1599478644578" duration="35000" />
+      <workItem from="1599481459895" duration="36000" />
+      <workItem from="1599837001992" duration="7760000" />
+      <workItem from="1600083088380" duration="8824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="474" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599264823747">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="474" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.806@0.23.1440.806" timestamp="1599264823747" />
+    <state width="1386" height="207" key="GridCell.Tab.0.bottom" timestamp="1600106814251">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1386" height="207" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1600106814251" />
+    <state width="1386" height="207" key="GridCell.Tab.0.center" timestamp="1600106814249">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1386" height="207" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1600106814249" />
+    <state width="1386" height="207" key="GridCell.Tab.0.left" timestamp="1600106814247">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1386" height="207" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1600106814247" />
+    <state width="1386" height="207" key="GridCell.Tab.0.right" timestamp="1600106814250">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1386" height="207" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1600106814250" />
+  </component>
+</project>
